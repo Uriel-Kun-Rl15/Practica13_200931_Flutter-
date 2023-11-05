@@ -48,10 +48,9 @@ El widget `MediaDetail` es un widget Flutter que muestra información detallada 
   <img src="./assets/a1.jpeg" width="200" alt="Captura de Pantalla 1.1">
   <img src="./assets/a2.jpeg" width="200" alt="Captura de Pantalla 1.2">
   <img src="./assets/b.jpg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/c.jpg" width="200" alt="Captura de Pantalla 3">
   <img src="./assets/d.jpg" width="200" alt="Captura de Pantalla 4">
   <img src="./assets/f.jpg" width="200" alt="Captura de Pantalla 6">
-  <img src="./assets/g.jpg" width="200" alt="Captura de Pantalla 7">
+ 
 </p>
 
 ## Instalación
